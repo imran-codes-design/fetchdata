@@ -1,6 +1,25 @@
 {
   "tasks": [
-    { "id": 1, "title": "Learn JS", "completed": false },
-    { "id": 2, "title": "Build API", "completed": true }
+    { "id": 1, "title": "Complete Assignment", "completed": false },
+    { "id": 2, "title": "Study JavaScript", "completed": true },
+    { "id": 3, "title": "Prepare Presentation", "completed": false }
+  ],
+
+  "students": [
+    { "id": 1, "name": "Ali Raza", "grade": "A" },
+    { "id": 2, "name": "Aisha Khan", "grade": "B+" },
+    { "id": 3, "name": "Bilal Ahmed", "grade": "A-" }
+  ],
+
+  "users": [
+    { "id": 1, "username": "imran123", "role": "admin" },
+    { "id": 2, "username": "student01", "role": "viewer" },
+    { "id": 3, "username": "teacher", "role": "editor" }
+  ],
+
+  "products": [
+    { "id": 1, "name": "Laptop", "price": 120000 },
+    { "id": 2, "name": "Mouse", "price": 1500 },
+    { "id": 3, "name": "Keyboard", "price": 2500 }
   ]
 }
