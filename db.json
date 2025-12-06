@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Learn JS", "completed": false },
+    { "id": 2, "title": "Build API", "completed": true }
+  ]
+}
